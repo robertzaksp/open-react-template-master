@@ -189,7 +189,7 @@ export default function Blocks() {
               <h4 className="h4 mb-2">Instant Features</h4>
               <p className="text-lg text-gray-400 text-center">
                 Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                cillum dolorre eu fugiat nulla pariatur. Excepteur sint occaecat
                 cupidatat.
               </p>
             </div>
